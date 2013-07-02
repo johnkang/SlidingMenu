@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1362362230000 3026 18c787a52f27ea04077c0765297f70681ef474c6 /home/johnkang/sourceCode/MyVLCProject/lib/SlidingMenu/src/com/slidingmenu/lib/CanvasTransformerBuilder.java
+1362362230000 2450 630c78361abc56bef916e3c9d52e84c67920b567 /home/johnkang/sourceCode/MyVLCProject/lib/SlidingMenu/src/com/slidingmenu/lib/app/SlidingActivityBase.java
+1362362230000 12566 4cd193abc9f6982cf4c3c9a4d1810594798f1cba /home/johnkang/sourceCode/MyVLCProject/lib/SlidingMenu/src/com/slidingmenu/lib/CustomViewBehind.java
+1362362230000 4150 43efb73c034e27f9c4d1ba26c22be42cc1f00ce2 /home/johnkang/sourceCode/MyVLCProject/lib/SlidingMenu/src/com/slidingmenu/lib/app/SlidingActivity.java
+1362362230000 4311 3611baf3534567e2cf3315d7dbc5a663586dd0b1 /home/johnkang/sourceCode/MyVLCProject/lib/SlidingMenu/src/com/slidingmenu/lib/app/SlidingListActivity.java
+1362362230000 4499 53231a2628a06c64c6805f77b731e6d1ab3d8806 /home/johnkang/sourceCode/MyVLCProject/lib/SlidingMenu/src/com/slidingmenu/lib/app/SlidingMapActivity.java
+1362362230000 4223 c24d9c5e2957b640451c9700833200e87a0250ea /home/johnkang/sourceCode/MyVLCProject/lib/SlidingMenu/src/com/slidingmenu/lib/app/SlidingFragmentActivity.java
+1362362230000 1157 13bbfd9577d8d1774a897e4cbc08dfb97ae799aa /home/johnkang/sourceCode/MyVLCProject/lib/SlidingMenu/src/com/slidingmenu/lib/MenuInterface.java
+1362362230000 4186 8b4c5a1deefa8f69837ab46153c6d5c7da7df945 /home/johnkang/sourceCode/MyVLCProject/lib/SlidingMenu/src/com/slidingmenu/lib/app/SlidingPreferenceActivity.java
+1362362230000 6373 ef24e766a06d961f20916ef01b94edee69750e70 /home/johnkang/sourceCode/MyVLCProject/lib/SlidingMenu/src/com/slidingmenu/lib/app/SlidingActivityHelper.java
+1362362230000 28647 799f34efc6737cb712dab14a46846f3dcd72cebe /home/johnkang/sourceCode/MyVLCProject/lib/SlidingMenu/src/com/slidingmenu/lib/SlidingMenu.java
+1362362230000 30872 e02241c3de2490464f014bcd20591ea0c591acb4 /home/johnkang/sourceCode/MyVLCProject/lib/SlidingMenu/src/com/slidingmenu/lib/CustomViewAbove.java

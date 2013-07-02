@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/johnkang/sourceCode/MyVLCProject/lib/SlidingMenu/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/johnkang/sourceCode/MyVLCProject/lib/SlidingMenu/src/debug/assets" />
+    </dataSet>
+
+</merger>
