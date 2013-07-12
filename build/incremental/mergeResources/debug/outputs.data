@@ -1,5 +1,0 @@
-# incremental data. DO NOT EDIT.
-# format is <lastModified> <length> <SHA-1> <path>
-# Encoding is UTF-8
-1372777607000 1211 ff0540b826cdb837fb0c10a61c0b3f6f418d2d2e /home/johnkang/sourceCode/MyVLCProject/lib/SlidingMenu/build/bundles/debug/res/values/values.xml
-1372777607000 254 f6ee26430ea8bc5f742ef10604225b9a5e10c101 /home/johnkang/sourceCode/MyVLCProject/lib/SlidingMenu/build/bundles/debug/res/layout/slidingmenumain.xml
